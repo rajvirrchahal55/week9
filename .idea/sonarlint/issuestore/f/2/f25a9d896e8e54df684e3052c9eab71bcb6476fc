@@ -1,0 +1,21 @@
+
+r	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÙâÜşÿÿÿÿ8¤¸³ˆ»1
+l	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âîã18¤¸³ˆ»1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–ï²í8¤¸³ˆ»1
+s	java:S116"WRename this field "company_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÀÔÜ8¤¸³ˆ»1
+v	java:S116"URename this field "model_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û„òŠûÿÿÿÿ8¤¸³ˆ»1
+F	java:S106"+Replace this use of System.out by a logger.(ªä8´¸³ˆ»1
+G	java:S106"+Replace this use of System.out by a logger.(¹¡·ü8´¸³ˆ»1
+L	java:S106"+Replace this use of System.out by a logger.(©¢Ùÿÿÿÿÿ8´¸³ˆ»1
+G	java:S106"+Replace this use of System.out by a logger.(€À®8´¸³ˆ»1
+F	java:S106"+Replace this use of System.out by a logger.(ªä8Ë–¼ˆ»1
+G	java:S106"+Replace this use of System.out by a logger.(¹¡·ü8Ë–¼ˆ»1
+L	java:S106"+Replace this use of System.out by a logger.(©¢Ùÿÿÿÿÿ8Ì–¼ˆ»1
+L	java:S106"+Replace this use of System.out by a logger.(¢Ú€•ûÿÿÿÿ8Ì–¼ˆ»1
+j	java:S100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£Ïà÷8´¸³ˆ»1
+o	java:S100+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÙâÜşÿÿÿÿ8´¸³ˆ»1
+j	java:S100."NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êôÄ£8´¸³ˆ»1
+i	java:S1001"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âîã18´¸³ˆ»1
+H
+java:S1068
+"+Remove this unused "mileage" private field.(¿Ùì¦8Çˆºˆ»1

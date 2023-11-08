@@ -1,0 +1,7 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸øÖä8É£Ëßº1
+‚
+java:S1450"`Remove the "getfuelefficiency" field and declare it as a local variable in the relevant methods.(–À¤»þÿÿÿÿ8¹äïçº1
+L	java:S106"+Replace this use of System.out by a logger.(öÜüÚøÿÿÿÿ8Ò£Ëßº1
+F	java:S106"+Replace this use of System.out by a logger.(ó¡Ç?8Ó£Ëßº1
+G	java:S106"+Replace this use of System.out by a logger.(¯ˆ–§8Ó£Ëßº1

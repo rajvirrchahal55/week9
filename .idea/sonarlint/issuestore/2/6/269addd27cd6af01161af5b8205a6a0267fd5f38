@@ -1,0 +1,21 @@
+
+r	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ÓÉúÿÿÿÿ8óúí‡»1
+r	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ç£Ìûÿÿÿÿ8óúí‡»1
+r	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤Ûıñúÿÿÿÿ8óúí‡»1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™ÃòÌøÿÿÿÿ8óúí‡»1
+r	java:S116"VRename this field "employee_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( åß±8óúí‡»1
+t	java:S116"XRename this field "employee_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î‰—8óúí‡»1
+u	java:S116	"ZRename this field "employee_salary" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä½„k8óúí‡»1
+G	java:S106"+Replace this use of System.out by a logger.(É½Ù8óúí‡»1
+L	java:S106"+Replace this use of System.out by a logger.(®¸ı‘øÿÿÿÿ8ƒûí‡»1
+L	java:S106"+Replace this use of System.out by a logger.(Åçûœúÿÿÿÿ8¬œğ‡»1
+G	java:S106"+Replace this use of System.out by a logger.(É½Ù8’Áó‡»1
+L	java:S106"+Replace this use of System.out by a logger.(®¸ı‘øÿÿÿÿ8’Áó‡»1
+L	java:S106"+Replace this use of System.out by a logger.(ÄÇ£¨şÿÿÿÿ8’Áó‡»1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÏú‘8ƒûí‡»1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ÊÌşÿÿÿÿ8ƒûí‡»1
+o	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ÓÉúÿÿÿÿ8ƒûí‡»1
+o	java:S100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ç£Ìûÿÿÿÿ8ƒûí‡»1
+o	java:S100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤Ûıñúÿÿÿÿ8ƒûí‡»1
+O
+java:S1068	"3Remove this unused "employee_salary" private field.(Ä½„k8ƒûí‡»1
